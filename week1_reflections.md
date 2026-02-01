@@ -1,0 +1,1 @@
+I learned that algorithms and data structures are very important concepts in advanced python. I also learned that inheritance is when one class inherits methods and attributes from another parent class.
